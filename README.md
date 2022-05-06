@@ -1,2 +1,2 @@
 # desenvolvimentoMobile
-Projeto realizdo na materia 'Desenvolvimento Mobile"
+Projeto realizdo na matéria 'Desenvolvimento Mobile"
