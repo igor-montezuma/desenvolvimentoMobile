@@ -1,2 +1,2 @@
 # desenvolvimentoMobile
-Projeto realizdo na cadeira 'Desenvolvimento Mobile"
+Projeto realizdo na materia 'Desenvolvimento Mobile"
